@@ -170,13 +170,14 @@ nav {
     p {
         font-size:medium;
     }
+
     h2 {
         font-size: 30px;
+    }   
+
+    #subtitle{
+        font-size: 25px;    
     }
-
-    #what-is-nitro h2{
-        font-size: 25px;    }
-
     
     .hero-text, h1{
         font-size: 45px;
